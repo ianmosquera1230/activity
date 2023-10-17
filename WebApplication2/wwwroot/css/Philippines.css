@@ -1,0 +1,54 @@
+﻿body {
+    font-family:Papyrus;
+    background-image: url("phbg.jpg");
+    background-size:cover;
+    text-size-adjust: auto;
+}
+.banaue { 
+    position:relative;
+    left: 80px;
+    top:2px;
+    margin: 10px 10px 10px 10px;
+    
+}
+html{
+    background-color:black;
+    font-size: 20px;
+
+}
+h1{
+    color: darkred;
+}
+h2{
+    border-style: solid;
+    background-color:navajowhite;
+    border-radius: 50px, 50px;
+}
+p{
+    border-style:solid;
+    background-color:antiquewhite;
+}
+.kawasan {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+.chocolatehills {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+.boracay {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+.mayon {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}

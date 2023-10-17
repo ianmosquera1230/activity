@@ -1,0 +1,61 @@
+﻿body {
+    font-family: Papyrus;
+    background-image: url("indiabg.jpg");
+    background-size: cover;
+    text-size-adjust: auto;
+}
+
+.taj {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+html {
+    background-color: black;
+    font-size: 20px;
+}
+
+h1 {
+    color: darkred;
+}
+
+h2 {
+    border-style: solid;
+    background-color: navajowhite;
+    border-radius: 50px, 50px;
+}
+
+p {
+    border-style: solid;
+    background-color: antiquewhite;
+}
+
+.redfort {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.goldentemple {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.amerfort {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.humayun {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}

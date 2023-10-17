@@ -1,0 +1,61 @@
+﻿body {
+    font-family: Papyrus;
+    background-image: url("malaysiabg.jpg");
+    background-size: cover;
+    text-size-adjust: auto;
+}
+
+.sipadan {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+html {
+    background-color: black;
+    font-size: 20px;
+}
+
+h1 {
+    color: darkred;
+}
+
+h2 {
+    border-style: solid;
+    background-color: navajowhite;
+    border-radius: 50px, 50px;
+}
+
+p {
+    border-style: solid;
+    background-color: antiquewhite;
+}
+
+.pangkor {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.kinabatangan {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.perhentian {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.langkawi {
+    position: relative;
+    left: 80px;
+    top: 2px;
+    margin: 10px 10px 10px 10px;
+}
